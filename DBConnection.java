@@ -8,8 +8,8 @@ public class DBConnection {
  {
      Connection con = null;
      String url = "jdbc:mysql://localhost:3306/customers"; //MySQL URL and followed by the database name
-     String username = "root"; //MySQL username
-     String password = "root123"; //MySQL password   
+     String username = "abhi"; //MySQL username
+     String password = "abhi"; //MySQL password   
      try 
      {
          try 
